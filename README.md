@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🎓 BSc IT student | Aspiring Data Analyst<br><br>🐍 Skilled in Python, Pandas, and data visualization<br><br>📊 Building real-world projects to turn data into insights<br><br>💡 Passionate about data-driven decision making</p>
+<p align="left">🎓 BSc IT student | Aspiring Data Scientist<br><br>🐍 Skilled in Python, Pandas, and data visualization<br><br>📊 Building real-world projects to turn data into insights<br><br>💡 Passionate about data-driven decision making</p>
 
 ###
 
