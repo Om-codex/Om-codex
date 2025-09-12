@@ -45,7 +45,8 @@ Tools & Platforms:
 
 <!-- Most Used Languages -->
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Om-codex%3DOm-codex%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Most Used Languages" />
+  <a href="https://github.com/Om-codex/github-most-used-languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Om-codex%3DOm-codex%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Most Used Languages" />
 </p>
 ​<p align="center">
 <a href="https://github.com/Om-codex/github-readme-streak-stats">
