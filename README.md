@@ -35,13 +35,13 @@ Tools & Platforms:
 </p>
 
 ​📈 GitHub Stats & Activity
-​<p align="center">
-<a href="https://github.com/Om-codex/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Om-codex&theme=radical&show_icons=true)" alt="Om-codex's GitHub Stats" />
-</a>
-</p>
-​<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-codex&layout=compact/>
+<p align="center">
+<!-- GitHub Stats Card -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOm-codex%26theme%3Dradical%26show_icons%3Dtrue%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Om-codex's GitHub Stats" />
+
+<!-- Most Used Languages -->
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DOm-codex%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Most Used Languages" />
 </p>
 ​<p align="center">
 <a href="https://github.com/Om-codex/github-readme-streak-stats">
