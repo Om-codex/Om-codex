@@ -1,76 +1,52 @@
 <div align="center">
-  <img height="165" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D25%26pause%3D1000%26color%3DF7F7F7%26background%3D0D1117%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHey%2Bthere%252C%2BI%27m%2BVansh%2BGilhotra!" alt="Typing SVG" /></a>
 </div>
 
-###
+👨‍💻 About Me: <br>
+<b>></b> As an inquisitive BSc.IT student at Smt. C.H.M. College, Ulhasnagar, I am deeply passionate about the fields of Data Science and Machine Learning. My focus lies in transforming raw data into actionable insights by developing robust predictive models. 
+<br>
+<b>></b> I have a strong foundation in Data Structures & Algorithms, which I leverage in Python to build efficient and scalable solutions. I am driven by a commitment to continuous learning and am eager to contribute my skills to impactful, data-driven projects.
+<br>
+<b>></b> I believe in continuous learning and enjoy contributing to projects that make a difference.
 
-<div align="center">
-  <a href="www.linkedin.com/in/om-mishra-a55263329" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="omm512462@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="30" alt="gmail logo"  />
-  </a>
-</div>
+🤝 Connect with Me
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/om-mishra-a55263329" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/om.0106/?hl=en" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
 
-###
+🛠️ Tech Stack
+Languages:
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dblack" alt="C"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Om-codex.Om-codex&left_color=black&right_color=aqua&left_text=Visit%20Count"  />
-</div>
 
-###
+Tools & Platforms:
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+</p>
 
-<h1 align="center">Hii there!👋🏻 this is OmCodex.</h1>
+📊 GitHub Stats & Activity
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 
-###
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DOm-codex%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
+</p>
 
-<h3 align="left">👩‍💻  About Me :</h3>
+✨ Fun Facts
 
-###
+I'm a developer who enjoys turning complex problems into clean, efficient code—often fueled by a good cup of coffee ☕. 
 
-<p align="left">🎓 BSc IT student | Aspiring Data Scientist<br><br>🐍 Skilled in Python, Pandas, and data visualization<br><br>📊 Building real-world projects to turn data into insights<br><br>💡 Passionate about data-driven decision making</p>
+I am committed to continuous learning and am always exploring new tools, frameworks, and programming concepts.
 
-###
+I'm passionate about the tech ecosystem and enjoy discussing everything from emerging startups to developer culture.
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="numpy logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="jupyter logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="38" alt="oracle logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cplusplus logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="38" alt="anaconda logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Om-codex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+⭐ Thanks for visiting! Feel free to explore my repositories. I'm always open to collaborating on interesting projects.
