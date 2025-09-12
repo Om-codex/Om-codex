@@ -37,11 +37,11 @@ Tools & Platforms:
 ​📈 GitHub Stats & Activity
 ​<p align="center">
 <a href="https://github.com/Om-codex/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Om-codex%3DOm-codex%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue](https://camo.githubusercontent.com/8447726b8d82e6c7e25d416ea1a0f926e408fd2a18b3510210ee9dbf38082d01/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7261646963616c)" alt="Om-codex's GitHub Stats" />
+<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" alt="Om-codex's GitHub Stats" />
 </a>
 </p>
 ​<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DOm-codex%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Most Used Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Om-codex%3DOm-codex%26layout%3Dcompact%26theme%radical%26hide_border%3Dtrue" alt="Most Used Languages" />
 </p>
 ​<p align="center">
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
