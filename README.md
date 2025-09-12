@@ -50,7 +50,9 @@
 
 📈 <b>GitHub Stats & Activity</b>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Om-codex&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Om-codex's GitHub Stats"/>
+  <a href="https://github.com/Om-codex">
+    <img src="https://github-readme-stats.vercel.app/api?username=Om-codex&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Om-codex's GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
