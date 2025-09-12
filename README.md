@@ -37,7 +37,7 @@ Tools & Platforms:
 ​📈 GitHub Stats & Activity
 ​<p align="center">
 <a href="https://github.com/Om-codex/github-readme-stats">
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" alt="Om-codex's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Om-codex&theme=dark&show_icons=true)" alt="Om-codex's GitHub Stats" />
 </a>
 </p>
 ​<p align="center">
