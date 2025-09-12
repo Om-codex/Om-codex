@@ -34,13 +34,25 @@ Tools & Platforms:
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
 </p>
 
-📊 GitHub Stats & Activity
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DOm-codex%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
+​📈 GitHub Stats & Activity
+​<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOm-codex%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Om-codex's GitHub Stats" />
+</a>
 </p>
-
+​<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DOm-codex%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Most Used Languages" />
+</p>
+​<p align="center">
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DOm-codex%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak Stats" />
+</a>
+</p>
+​<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DOm-codex%26bg_color%3D1a1b27%26color%3D79ff97%26line%3D79ff97%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" alt="Contribution Graph" />
+</a>
+</p>
 ✨ Fun Facts
 
 I'm a developer who enjoys turning complex problems into clean, efficient code—often fueled by a good cup of coffee ☕. 
