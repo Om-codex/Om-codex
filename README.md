@@ -11,8 +11,8 @@
 
 🤝 Connect with Me
 <p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/om-mishra-a55263329" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/om-mishra-a55263329" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/om.0106/?hl=en" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -22,10 +22,10 @@
 🛠️ Tech Stack
 Languages:
 <p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dblack" alt="C"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dblack" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
 </p>
 
 
