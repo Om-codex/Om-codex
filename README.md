@@ -44,12 +44,12 @@ Tools & Platforms:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-codex&layout=compact/>
 </p>
 ​<p align="center">
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<a href="https://github.com/Om-codex/github-readme-streak-stats">
 <img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DOm-codex%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak Stats" />
 </a>
 </p>
 ​<p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/Om-codex/github-readme-activity-graph">
 <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DOm-codex%26bg_color%3D1a1b27%26color%3D79ff97%26line%3D79ff97%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" alt="Contribution Graph" />
 </a>
 </p>
