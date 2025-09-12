@@ -2,6 +2,8 @@
   <img height="165" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
+<h1 align="center"><b>Hello there 👋🏻 This is OmCodex</b></h1>
+
 👨‍💻 <span style="font-family: 'Comic Sans MS', cursive, sans-serif;"><b>About Me</b><br></span>
 <b></b> As an inquisitive BSc.IT student at Smt. C.H.M. College, Ulhasnagar, I am deeply passionate about the fields of Data Science and Machine Learning. My focus lies in transforming raw data into actionable insights by developing robust predictive models.  
 <br>
@@ -18,6 +20,9 @@
 </a>
 <a href="https://www.instagram.com/om.0106/?hl=en" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://x.com/OmCodex_tweets" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 </p>
 
