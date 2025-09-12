@@ -41,7 +41,7 @@ Tools & Platforms:
 </a>
 </p>
 ​<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Om-codex%3DOm-codex%26layout%3Dcompact%26theme%radical%26hide_border%3Dtrue" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-codex&layout=compact/>
 </p>
 ​<p align="center">
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
