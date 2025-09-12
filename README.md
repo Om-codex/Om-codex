@@ -2,12 +2,12 @@
   <img height="165" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-👨‍💻 <b>About Me</b><br>
-<b>></b> As an inquisitive BSc.IT student at Smt. C.H.M. College, Ulhasnagar, I am deeply passionate about the fields of Data Science and Machine Learning. My focus lies in transforming raw data into actionable insights by developing robust predictive models.  
+👨‍💻 <span style="font-family: 'Comic Sans MS', cursive, sans-serif;"><b>About Me</b><br></span>
+<b></b> As an inquisitive BSc.IT student at Smt. C.H.M. College, Ulhasnagar, I am deeply passionate about the fields of Data Science and Machine Learning. My focus lies in transforming raw data into actionable insights by developing robust predictive models.  
 <br>
-<b>></b> I have a strong foundation in Data Structures & Algorithms, which I leverage in Python to build efficient and scalable solutions. I am driven by a commitment to continuous learning and am eager to contribute my skills to impactful, data-driven projects.  
+<b></b> I have a strong foundation in Data Structures & Algorithms, which I leverage in Python to build efficient and scalable solutions. I am driven by a commitment to continuous learning and am eager to contribute my skills to impactful, data-driven projects.  
 <br>
-<b>></b> I believe in continuous learning and enjoy contributing to projects that make a difference.  
+<b></b> I believe in continuous learning and enjoy contributing to projects that make a difference.  
 
 ---
 
@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 <b>Tools & Platforms:</b>  
