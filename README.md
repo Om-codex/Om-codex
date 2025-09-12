@@ -1,69 +1,76 @@
 <div align="center">
-  <img height="165" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="165" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-👨‍💻 About Me: <br>
-<b>></b> As an inquisitive BSc.IT student at Smt. C.H.M. College, Ulhasnagar, I am deeply passionate about the fields of Data Science and Machine Learning. My focus lies in transforming raw data into actionable insights by developing robust predictive models. 
+👨‍💻 <b>About Me</b><br>
+<b>></b> As an inquisitive BSc.IT student at Smt. C.H.M. College, Ulhasnagar, I am deeply passionate about the fields of Data Science and Machine Learning. My focus lies in transforming raw data into actionable insights by developing robust predictive models.  
 <br>
-<b>></b> I have a strong foundation in Data Structures & Algorithms, which I leverage in Python to build efficient and scalable solutions. I am driven by a commitment to continuous learning and am eager to contribute my skills to impactful, data-driven projects.
+<b>></b> I have a strong foundation in Data Structures & Algorithms, which I leverage in Python to build efficient and scalable solutions. I am driven by a commitment to continuous learning and am eager to contribute my skills to impactful, data-driven projects.  
 <br>
-<b>></b> I believe in continuous learning and enjoy contributing to projects that make a difference.
+<b>></b> I believe in continuous learning and enjoy contributing to projects that make a difference.  
 
-🤝 Connect with Me
+---
+
+🤝 <b>Connect with Me</b>  
 <p align="left">
 <a href="https://www.linkedin.com/in/om-mishra-a55263329" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/om.0106/?hl=en" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>
 
-🛠️ Tech Stack
-Languages:
+---
+
+🛠️ <b>Tech Stack</b>  
+
+<b>Languages:</b>  
 <p align="left">
-<img src="https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++"/>
-<img src="https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dblack" alt="C"/>
-<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-
-Tools & Platforms:
+<b>Tools & Platforms:</b>  
 <p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-​📈 GitHub Stats & Activity
+---
 
-<!-- GitHub Stats Card -->
-​<p align="center">
-<a href="https://github.com/Om-codex/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Om-codex&theme=radical&show_icons=true)" alt="Om-codex's GitHub Stats" />
-</a>
-</p>
-
-<!-- Most Used Languages -->
+📈 <b>GitHub Stats & Activity</b>  
 <p align="center">
-  <a href="https://github.com/Om-codex/github-most-used-languages">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Om-codex%3DOm-codex%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Most Used Languages" />
-</p>
-​<p align="center">
-<a href="https://github.com/Om-codex/github-readme-streak-stats">
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Om-codex%3DOm-codex%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak Stats" />
+<a href="https://github.com/Om-codex">
+  <img src="https://github-readme-stats.vercel.app/api?username=Om-codex&theme=radical&show_icons=true" alt="Om-codex's GitHub Stats"/>
 </a>
 </p>
-​<p align="center">
-<a href="https://github.com/Om-codex/github-readme-activity-graph">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Om-codex%3DOm-codex%26bg_color%3D1a1b27%26color%3D79ff97%26line%3D79ff97%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" alt="Contribution Graph" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-codex&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Om-codex">
+  <img src="https://streak-stats.demolab.com?user=Om-codex&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </a>
 </p>
-✨ Fun Facts
 
-I'm a developer who enjoys turning complex problems into clean, efficient code—often fueled by a good cup of coffee ☕. 
+<p align="center">
+<a href="https://github.com/Om-codex">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-codex&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
+</p>
 
-I am committed to continuous learning and am always exploring new tools, frameworks, and programming concepts.
+---
 
-I'm passionate about the tech ecosystem and enjoy discussing everything from emerging startups to developer culture.
+✨ <b>Fun Facts</b>  
+
+I'm a developer who enjoys turning complex problems into clean, efficient code—often fueled by a good cup of coffee ☕.  
+<br>
+I am committed to continuous learning and am always exploring new tools, frameworks, and programming concepts.  
+<br>
+I'm passionate about the tech ecosystem and enjoy discussing everything from emerging startups to developer culture.  
 
 ⭐ Thanks for visiting! Feel free to explore my repositories. I'm always open to collaborating on interesting projects.
