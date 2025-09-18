@@ -60,9 +60,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Om-codex">
-  <img src="https://streak-stats.demolab.com?user=Om-codex&theme=blux&hide_border=true" alt="GitHub Streak Stats"/>
-</a>
+  <a href="https://github.com/Om-codex">
+    <img src="https://streak-stats.demolab.com?user=Om-codex&theme=blux&hide_border=true" alt="GitHub Streak Stats"/>
+  </a>
 </p>
 
 <p align="center">
