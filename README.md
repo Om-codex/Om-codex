@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/Om-codex">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-codex&theme=black-ice&hide_border=true" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.vercel.app/?user=Om-codex&theme=black-ice&hide_border=true" alt="GitHub Streak Stats"/>
   </a>
 </p>
 
