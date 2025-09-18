@@ -61,7 +61,7 @@
 
 <p align="center">
 <a href="https://github.com/Om-codex">
-  <img src="https://streak-stats.demolab.com/?user=Om-codex&theme=blux)(https://git.io/streak-stats)"/>
+  <img src="https://streak-stats.demolab.com/?user=Om-codex&theme=blux(https://git.io/streak-stats)"/>
 </a>
 </p>
 
